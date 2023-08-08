@@ -51,6 +51,7 @@
   "devDependencies": {
     "@testing-library/cypress": "^7.0.1",
     "@types/react-redux": "^7.1.11",
+    "cross-env": "^7.0.3",
     "cypress": "^5.4.0",
     "eslint-config-prettier": "^6.15.0",
     "eslint-plugin-prettier": "^3.1.4",
