@@ -1,0 +1,214 @@
+/Users/Rehan/Projects/backend/QandA/bin/Debug/net7.0/appsettings.Development.json
+/Users/Rehan/Projects/backend/QandA/bin/Debug/net7.0/appsettings.json
+/Users/Rehan/Projects/backend/QandA/bin/Debug/net7.0/QandA
+/Users/Rehan/Projects/backend/QandA/bin/Debug/net7.0/QandA.deps.json
+/Users/Rehan/Projects/backend/QandA/bin/Debug/net7.0/QandA.runtimeconfig.json
+/Users/Rehan/Projects/backend/QandA/bin/Debug/net7.0/QandA.dll
+/Users/Rehan/Projects/backend/QandA/bin/Debug/net7.0/QandA.pdb
+/Users/Rehan/Projects/backend/QandA/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/Rehan/Projects/backend/QandA/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/Rehan/Projects/backend/QandA/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/Rehan/Projects/backend/QandA/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/Rehan/Projects/backend/QandA/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/Rehan/Projects/backend/QandA/obj/Debug/net7.0/QandA.csproj.AssemblyReference.cache
+/Users/Rehan/Projects/backend/QandA/obj/Debug/net7.0/QandA.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Rehan/Projects/backend/QandA/obj/Debug/net7.0/QandA.AssemblyInfoInputs.cache
+/Users/Rehan/Projects/backend/QandA/obj/Debug/net7.0/QandA.AssemblyInfo.cs
+/Users/Rehan/Projects/backend/QandA/obj/Debug/net7.0/QandA.csproj.CoreCompileInputs.cache
+/Users/Rehan/Projects/backend/QandA/obj/Debug/net7.0/QandA.MvcApplicationPartsAssemblyInfo.cs
+/Users/Rehan/Projects/backend/QandA/obj/Debug/net7.0/QandA.MvcApplicationPartsAssemblyInfo.cache
+/Users/Rehan/Projects/backend/QandA/obj/Debug/net7.0/staticwebassets/msbuild.QandA.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/Rehan/Projects/backend/QandA/obj/Debug/net7.0/staticwebassets/msbuild.build.QandA.props
+/Users/Rehan/Projects/backend/QandA/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.QandA.props
+/Users/Rehan/Projects/backend/QandA/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.QandA.props
+/Users/Rehan/Projects/backend/QandA/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/Rehan/Projects/backend/QandA/obj/Debug/net7.0/staticwebassets.build.json
+/Users/Rehan/Projects/backend/QandA/obj/Debug/net7.0/staticwebassets.development.json
+/Users/Rehan/Projects/backend/QandA/obj/Debug/net7.0/scopedcss/bundle/QandA.styles.css
+/Users/Rehan/Projects/backend/QandA/obj/Debug/net7.0/QandA.csproj.CopyComplete
+/Users/Rehan/Projects/backend/QandA/obj/Debug/net7.0/QandA.dll
+/Users/Rehan/Projects/backend/QandA/obj/Debug/net7.0/refint/QandA.dll
+/Users/Rehan/Projects/backend/QandA/obj/Debug/net7.0/QandA.pdb
+/Users/Rehan/Projects/backend/QandA/obj/Debug/net7.0/QandA.genruntimeconfig.cache
+/Users/Rehan/Projects/backend/QandA/obj/Debug/net7.0/ref/QandA.dll
+/Users/Rehan/Projects/backend/QandA/bin/Debug/net7.0/Azure.Core.dll
+/Users/Rehan/Projects/backend/QandA/bin/Debug/net7.0/Azure.Identity.dll
+/Users/Rehan/Projects/backend/QandA/bin/Debug/net7.0/Dapper.dll
+/Users/Rehan/Projects/backend/QandA/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/Rehan/Projects/backend/QandA/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/Rehan/Projects/backend/QandA/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/Rehan/Projects/backend/QandA/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/Rehan/Projects/backend/QandA/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/Rehan/Projects/backend/QandA/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/Rehan/Projects/backend/QandA/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/Rehan/Projects/backend/QandA/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/Rehan/Projects/backend/QandA/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/Rehan/Projects/backend/QandA/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/Rehan/Projects/backend/QandA/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/Rehan/Projects/backend/QandA/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/Rehan/Projects/backend/QandA/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/Rehan/Projects/backend/QandA/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/Rehan/Projects/backend/QandA/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/Rehan/Projects/backend/QandA/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/Rehan/Projects/backend/QandA/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/Rehan/Projects/backend/QandA/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/Rehan/Projects/backend/QandA/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/Rehan/Projects/backend/QandA/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/Rehan/Projects/backend/QandA/bin/Debug/net7.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/Rehan/Projects/backend/QandA/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/Rehan/Projects/backend/QandA/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/Rehan/Projects/backend/QandA/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/Rehan/Projects/backend/QandA/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/Rehan/Projects/backend/QandA/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/Rehan/Projects/backend/QandA/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/Rehan/Projects/backend/QandA/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/Rehan/Projects/backend/QandA/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/Rehan/Projects/backend/QandA/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/Rehan/Projects/backend/QandA/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/Rehan/Projects/backend/QandA/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/bin/Debug/net7.0/appsettings.Development.json
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/bin/Debug/net7.0/appsettings.json
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/bin/Debug/net7.0/QandA
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/bin/Debug/net7.0/QandA.deps.json
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/bin/Debug/net7.0/QandA.runtimeconfig.json
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/bin/Debug/net7.0/QandA.dll
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/bin/Debug/net7.0/QandA.pdb
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/bin/Debug/net7.0/Azure.Core.dll
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/bin/Debug/net7.0/Azure.Identity.dll
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/bin/Debug/net7.0/Dapper.dll
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/bin/Debug/net7.0/dbup-core.dll
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/bin/Debug/net7.0/dbup-sqlserver.dll
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/bin/Debug/net7.0/Microsoft.Azure.Services.AppAuthentication.dll
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/bin/Debug/net7.0/Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/bin/Debug/net7.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/obj/Debug/net7.0/QandA.csproj.AssemblyReference.cache
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/obj/Debug/net7.0/QandA.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/obj/Debug/net7.0/QandA.AssemblyInfoInputs.cache
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/obj/Debug/net7.0/QandA.AssemblyInfo.cs
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/obj/Debug/net7.0/QandA.csproj.CoreCompileInputs.cache
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/obj/Debug/net7.0/QandA.MvcApplicationPartsAssemblyInfo.cs
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/obj/Debug/net7.0/QandA.MvcApplicationPartsAssemblyInfo.cache
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/obj/Debug/net7.0/staticwebassets/msbuild.QandA.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/obj/Debug/net7.0/staticwebassets/msbuild.build.QandA.props
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.QandA.props
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.QandA.props
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/obj/Debug/net7.0/staticwebassets.build.json
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/obj/Debug/net7.0/staticwebassets.development.json
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/obj/Debug/net7.0/scopedcss/bundle/QandA.styles.css
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/obj/Debug/net7.0/QandA.csproj.CopyComplete
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/obj/Debug/net7.0/QandA.dll
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/obj/Debug/net7.0/refint/QandA.dll
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/obj/Debug/net7.0/QandA.pdb
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/obj/Debug/net7.0/QandA.genruntimeconfig.cache
+/Users/Rehan/Downloads/educative-code-widget-files 16/QandA/obj/Debug/net7.0/ref/QandA.dll
+/Users/Rehan/Desktop/Backends/QandA/bin/Debug/net7.0/appsettings.Development.json
+/Users/Rehan/Desktop/Backends/QandA/bin/Debug/net7.0/appsettings.json
+/Users/Rehan/Desktop/Backends/QandA/bin/Debug/net7.0/QandA
+/Users/Rehan/Desktop/Backends/QandA/bin/Debug/net7.0/QandA.deps.json
+/Users/Rehan/Desktop/Backends/QandA/bin/Debug/net7.0/QandA.runtimeconfig.json
+/Users/Rehan/Desktop/Backends/QandA/bin/Debug/net7.0/QandA.dll
+/Users/Rehan/Desktop/Backends/QandA/bin/Debug/net7.0/QandA.pdb
+/Users/Rehan/Desktop/Backends/QandA/bin/Debug/net7.0/Azure.Core.dll
+/Users/Rehan/Desktop/Backends/QandA/bin/Debug/net7.0/Azure.Identity.dll
+/Users/Rehan/Desktop/Backends/QandA/bin/Debug/net7.0/Dapper.dll
+/Users/Rehan/Desktop/Backends/QandA/bin/Debug/net7.0/dbup-core.dll
+/Users/Rehan/Desktop/Backends/QandA/bin/Debug/net7.0/dbup-sqlserver.dll
+/Users/Rehan/Desktop/Backends/QandA/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/Rehan/Desktop/Backends/QandA/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/Rehan/Desktop/Backends/QandA/bin/Debug/net7.0/Microsoft.Azure.Services.AppAuthentication.dll
+/Users/Rehan/Desktop/Backends/QandA/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/Rehan/Desktop/Backends/QandA/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/Rehan/Desktop/Backends/QandA/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/Rehan/Desktop/Backends/QandA/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/Rehan/Desktop/Backends/QandA/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/Rehan/Desktop/Backends/QandA/bin/Debug/net7.0/Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+/Users/Rehan/Desktop/Backends/QandA/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/Rehan/Desktop/Backends/QandA/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/Rehan/Desktop/Backends/QandA/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/Rehan/Desktop/Backends/QandA/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/Rehan/Desktop/Backends/QandA/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/Rehan/Desktop/Backends/QandA/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/Rehan/Desktop/Backends/QandA/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/Rehan/Desktop/Backends/QandA/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/Rehan/Desktop/Backends/QandA/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/Rehan/Desktop/Backends/QandA/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/Rehan/Desktop/Backends/QandA/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/Rehan/Desktop/Backends/QandA/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/Rehan/Desktop/Backends/QandA/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/Rehan/Desktop/Backends/QandA/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/Rehan/Desktop/Backends/QandA/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/Rehan/Desktop/Backends/QandA/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/Rehan/Desktop/Backends/QandA/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/Rehan/Desktop/Backends/QandA/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/Rehan/Desktop/Backends/QandA/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/Rehan/Desktop/Backends/QandA/bin/Debug/net7.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/Rehan/Desktop/Backends/QandA/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/Rehan/Desktop/Backends/QandA/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/Rehan/Desktop/Backends/QandA/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/Rehan/Desktop/Backends/QandA/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/Rehan/Desktop/Backends/QandA/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/Rehan/Desktop/Backends/QandA/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/Rehan/Desktop/Backends/QandA/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/Rehan/Desktop/Backends/QandA/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/Rehan/Desktop/Backends/QandA/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/Rehan/Desktop/Backends/QandA/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/Rehan/Desktop/Backends/QandA/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/Rehan/Desktop/Backends/QandA/obj/Debug/net7.0/QandA.csproj.AssemblyReference.cache
+/Users/Rehan/Desktop/Backends/QandA/obj/Debug/net7.0/QandA.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Rehan/Desktop/Backends/QandA/obj/Debug/net7.0/QandA.AssemblyInfoInputs.cache
+/Users/Rehan/Desktop/Backends/QandA/obj/Debug/net7.0/QandA.AssemblyInfo.cs
+/Users/Rehan/Desktop/Backends/QandA/obj/Debug/net7.0/QandA.csproj.CoreCompileInputs.cache
+/Users/Rehan/Desktop/Backends/QandA/obj/Debug/net7.0/QandA.MvcApplicationPartsAssemblyInfo.cs
+/Users/Rehan/Desktop/Backends/QandA/obj/Debug/net7.0/QandA.MvcApplicationPartsAssemblyInfo.cache
+/Users/Rehan/Desktop/Backends/QandA/obj/Debug/net7.0/staticwebassets/msbuild.QandA.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/Rehan/Desktop/Backends/QandA/obj/Debug/net7.0/staticwebassets/msbuild.build.QandA.props
+/Users/Rehan/Desktop/Backends/QandA/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.QandA.props
+/Users/Rehan/Desktop/Backends/QandA/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.QandA.props
+/Users/Rehan/Desktop/Backends/QandA/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/Rehan/Desktop/Backends/QandA/obj/Debug/net7.0/staticwebassets.build.json
+/Users/Rehan/Desktop/Backends/QandA/obj/Debug/net7.0/staticwebassets.development.json
+/Users/Rehan/Desktop/Backends/QandA/obj/Debug/net7.0/scopedcss/bundle/QandA.styles.css
+/Users/Rehan/Desktop/Backends/QandA/obj/Debug/net7.0/QandA.csproj.CopyComplete
+/Users/Rehan/Desktop/Backends/QandA/obj/Debug/net7.0/QandA.dll
+/Users/Rehan/Desktop/Backends/QandA/obj/Debug/net7.0/refint/QandA.dll
+/Users/Rehan/Desktop/Backends/QandA/obj/Debug/net7.0/QandA.pdb
+/Users/Rehan/Desktop/Backends/QandA/obj/Debug/net7.0/QandA.genruntimeconfig.cache
+/Users/Rehan/Desktop/Backends/QandA/obj/Debug/net7.0/ref/QandA.dll
