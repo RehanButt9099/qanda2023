@@ -20,3 +20,6 @@ steps:
 - script: dotnet build --configuration $(buildConfiguration)
   workingDirectory: Backends/QandA
   displayName: 'backend build'
+- script: dotnet test
+  workingDirectory:  BackendTests
+  displayName: 'backend tests'
