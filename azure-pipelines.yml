@@ -18,6 +18,6 @@ steps:
     packageType: 'sdk'
     version: '7.0.102'
 - script: dotnet build --configuration $(buildConfiguration)
-  workingDirectory: backend
+  workingDirectory: Backends
   displayName: 'backend build'
 
