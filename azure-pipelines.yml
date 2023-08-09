@@ -53,9 +53,12 @@ steps:
   workingDirectory: Frontends/frontend
   displayName: 'frontend tests'
 
-- script: npm run build:staging
+- script: |
+    export NODE_OPTIONS=--openssl-legacy-provider
+    npm run build:staging
   workingDirectory: Frontends/frontend
   displayName: 'frontend staging build'
+
 
 - task: ArchiveFiles@2
   inputs:
