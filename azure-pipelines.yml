@@ -84,7 +84,9 @@ steps:
     artifactName: 'frontend-staging'
   displayName: 'frontend staging publish to pipeline'
 
-- script: npm run build:production
+- script:  |
+    export NODE_OPTIONS=--openssl-legacy-provider
+    npm run build:production
   workingDirectory: Frontends/frontend
   displayName: 'frontend production build'
 
